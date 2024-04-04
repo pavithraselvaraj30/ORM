@@ -27,11 +27,11 @@ from django.contrib import admin
 class Books(models.Model):
       name=models.CharField(max_length=20);
       bookno=models.IntegerField(primary_key=True);
-
+      bookid=models.IntegerField();
       author=models.CharField(max_length=20);
       prize=models.IntegerField();
 class BooksAdmin(admin.ModelAdmin):
-      list_display=("name","bookno","author","prize");
+      list_display=("name","bookno","author","prize",bookid);
 
 
 admin.py
