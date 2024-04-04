@@ -46,7 +46,11 @@ admin.site.register(Books,BooksAdmin)
 ## OUTPUT
 
 
-![web ex](https://github.com/pavithraselvaraj30/ORM/assets/149366880/587b22b5-22c8-4672-946b-36ce06eb1b99)
+![mind map](https://github.com/pavithraselvaraj30/ORM/assets/149366880/5c6c49de-4400-43e6-aa3d-3ac3bac1454d)
+
+
+![Screenshot 2024-04-04 205432](https://github.com/pavithraselvaraj30/ORM/assets/149366880/d72af30b-7704-482b-8ea4-74b6ed59436f)
+
 
 
 ## RESULT
